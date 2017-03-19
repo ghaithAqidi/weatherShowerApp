@@ -14,3 +14,16 @@
     margin-right: auto;
     margin-top: 5%;
 }
+
+.rain {
+    background-image: url("img/rain.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.clear{
+
+    background-image: url("img/clearSky.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+}
